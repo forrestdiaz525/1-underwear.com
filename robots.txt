@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /lingerie_19/
+Sitemap: http://www.1-underwear.com/sitemap.xml 
